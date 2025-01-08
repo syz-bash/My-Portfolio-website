@@ -1,0 +1,26 @@
+
+
+.open-sans-h {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+}
+
+
+nav{
+    display: flex;
+
+}
+nav .nm{
+    font-size: 45px;
+    font-weight: 800;
+}
+.nm .nm-type{
+    color: #FD6E0A;
+}
+nav .nv-type{
+    display: flex;
+    gap: 20px;
+}
