@@ -99,11 +99,14 @@ nav .nv-type{
 
 .main-1{
     max-width: 940px;
-    background-color:#FFF8F3 ;
+    
     margin: 0 auto;
     padding: 130px 150px;
     margin-top: 150px;
     text-align: center;
+}
+.bg-c{
+    background-color:#FFF8F3 ;
 }
 
 .m-header{
@@ -119,3 +122,165 @@ nav .nv-type{
     display: flex;
     justify-content: space-around;
 }
+.skill-heading{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+.skill-title{
+   font-size: 17px;
+   margin:0 auto;
+   font-weight: 400; 
+   width:870px;
+   height: 90px;
+   
+}
+
+.s-skills{
+    display: flex;
+    gap: 20px;
+     
+}
+.s-skills-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 267px;
+    height: 377px;
+    padding: 0 30px 33px 30px;
+}  
+.s-skills-logo{
+    width: 44px;
+    height: 44px;
+    margin-bottom: 0;
+}
+.skill{
+    max-width: 1233px;
+    margin: 0 auto;
+}
+.s-skills-heading{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+.s-skills-title{
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 20px;
+    line-height: 28px;
+}
+.xx{
+    width: 204px;
+    height: 243px;
+}
+.part1{
+    
+}
+
+/* Resume */
+
+.resume{
+    max-width: 1233px;
+    /* max-height: 516px; */
+    margin: 0 auto;
+    
+}
+
+/* summary */
+.summary{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+/* Resume main*/
+.resume-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 171px;
+    
+}
+
+/* educatio */
+.Education{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+/* Education-part */
+.edu-part{
+    width: 430px;
+    height: 149px;
+    margin-bottom:60px ;
+}
+/* Course */
+.course{
+    font-size: 25px;
+    font-weight: bold;
+}
+/* University */
+.uni{
+    font-weight: 600;
+    font-size: 20;
+}
+/* University-details */
+
+.uni-details{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+/*Download CV button */
+.btn-dcv{
+    text-align: center;
+    margin: 50px 0 113px 0;
+}
+
+/* footer */
+footer{
+    display: flex;
+    gap: 130px;
+    justify-content: space-between;
+    padding: 130px 360px;
+}
+.colum-1{
+    width: 50%;
+}
+.f-title{
+    font-size: 16;
+    font-weight: 400;
+}
+.colum-1 a{
+    text-decoration: none;
+}
+.colum-1 input[type="text"]{
+    display: block;
+    width: 392px;
+    margin-bottom: 20px;
+    height: 55px;
+    border: none;
+    
+}
+.colum-1 input[type="email"]{
+    display: block;
+    width: 392px;
+    height: 55px;
+    border: none;
+    margin-bottom: 20px;
+}
+.colum-1 textarea{
+    display: block;
+    width: 392px;
+    height: 155px;
+    border: none;
+    margin-bottom: 20px;
+}
+.colum-1 img{
+    margin-right: 20px;
+}
+
