@@ -92,7 +92,7 @@ nav .nv-type{
 }
 .b-img{
     width: 580px;
-    height: 676px;
+    height: 576px;
 }
 
 /* main */
@@ -264,7 +264,7 @@ footer{
     margin-bottom: 20px;
     height: 55px;
     border: none;
-    
+
 }
 .colum-1 input[type="email"]{
     display: block;
