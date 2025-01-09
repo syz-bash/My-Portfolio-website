@@ -73,8 +73,9 @@ nav .nv-type{
     font-weight: 600;
 }
 .b-itm2{
-    font-size: 75px;
+    font-size: 65px;
     font-weight:bold;
+    display: block;
 }
 .b-itm3{
     font-weight: 400;
